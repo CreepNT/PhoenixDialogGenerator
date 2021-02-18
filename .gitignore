@@ -1,0 +1,6 @@
+bin/
+.vs/
+data/filelist.txt
+bin/filelist.txt
+out/
+*desktop.ini

@@ -1,0 +1,630 @@
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+À priori, la réponse est oui.
+Dépêche toi, j'ai à faire !
+Ici Al.
+Je crains que non.
+Je proteste de la manière la plus virulente.
+Je suis occupé, là !
+Mon ange... euh, je veux dire, Helga.
+On arrive, là ?
+Oui, dans une petite minute.
+Pardon Capitaine Qwark.
+Pas d'problème !
+Roborama d'Al : vous cassez, moi j'répare.
+T'aurais pas vu l'singe dans l'coin ? Il s'est tiré avec mes binocles.
+Capitaine Sacha
+Hey l'fumiste !
+Soldat !
+Al chéri.
+Écoute moi bien boule de graisse, la réponse est non ! 
+Frechen !
+Hey ! Boule de graisse !
+Je travaille ! Qu'est ce que c'est ?
+Je vais t'écrabouiller si t'arrête pas d'me gonfler !
+Mais de quoi tu parles ?
+McMarx !
+Miss Sacha !
+Nein !
+Oh oh oh, pas sans un petit combat d'abord ! Si je perds, je le fais.
+Prêt pour mon nouveau parcours du combattant ?
+Tas d'ferraile !
+Ouh haha ! Si j'entends ça encore une fois, je te transforme en bretzel !
+Y'a pas de plus gros clavier ? Hmm ? Ces touches sont vraiment trop p'tites pour mes jolis doigts.
+Ya ?
+C'est lamentable !
+Plus vite !
+Dépêche toi, Lombax !
+Hm! C'était, pas mal, j'dirais !
+T'arrêtes pas grosse larve ! Tu cours comme une fille !
+Ah ! C'était pitoyable !
+Al, mon poto.
+L'intello !
+Yo Al !
+C'est une très bonne question officier, mais vous aurez beaucoup plus de mérite si vous trouvez la réponse tout seul.
+Ha ha ha ! Je n'pense pas !
+Oui, absolument !
+Non ! Non ! Non ! Combien de fois vais-je devoir vous le dire ?
+Oh ! J'avais la réponse à cette question ! C'est heu... et bah... Oh, je l'ai perdue.
+On joue à la chaise musicale ! Allez ! Vite vite !
+Enclenche le système matrixien positronique.
+Y'a un insecte sur le pare-brise, va m'l'enlever tout d'suite !
+Trouve moi un crayon, on va jouer à relier les points entre eux.
+Trouve moi le Galaxy Burger le plus proche, et qu'ça saute !
+Appelle ma mère, et dis lui que j'ai enfin un vrai boulot.
+Envoie un bouquet au 12 Rue de la Lune sur Marcadia. Signe de la part de... votre esclave dévoué, euh... Qwarkiniou.
+Quelqu'un s'est amusé à me caricaturer sur les murs des toilettes. Efface moi ça.
+Heu heu... sincèrement, j'ai l'air gros là-dedans ?
+Inverse la polarité du... bidule, et transfère la puissance du... machin, et puis sers moi un café illico !
+Pardon Helga.
+Helga !
+Oh Helgaaaaa !
+Qu'est-ce que c'est ?
+Oui ?
+J'écoute.
+Et bah quoi ?
+Des news ?
+Monsieur l'robot là !
+Monsieur McMarx.
+Officier Skidd.
+Hey, Skidd'fond !
+OK.
+Oui oui, chef.
+Négatif !
+Oui, chef !
+Instructeur Helga.
+Je peux capter Opération Destruction sur ce truc.
+On est arrivé.
+Je voudrais un autographe de l'agent Clank.
+Tu trouves que je ressemble à H26 ?
+Je peux aller au pipi room ?
+T'aurais pas une idée de ce que je suis sensé faire ?
+Capitaine Qwark.
+Ouii chef.
+Capitaine.
+Officier McMarx.
+Officier scientifique.
+Big Al !
+Fais gaffe Al !
+Bien sûr.
+Jusqu'à nouvel ordre, c'est moi qui commande sur ce vaisseau.
+Affirmatif.
+Négatif.
+Je n'peux pas vous répondre.
+Propulseurs à onde de choc !
+Vérification système à 3...
+Pluie de météores en approche. Orientez la puissance sur les déflecteurs avant.
+Trajectoire pour le secteur Alpha-5.
+Je veux en savoir plus sur cet OVNI.
+Faites un diagnostic sur l'ordinateur central.
+Vous prenez le deuxième tour de garde.
+Rassemblez les infos sur le docteur Néfarious. Je veux savoir à qui on a affaire.
+Enclenchez le plan 9.
+Helga !
+Officier Instructeur Helga.
+Oui
+Ici Sasha.
+J'vous écoute.
+Soldat !
+Aspirant McMarx.
+Hum humm ! Skidd ?
+Skidd, tu m'reçois ?
+Yo Al !
+La plaie !
+Ça marche !
+Même pas en rêve, mon pote !
+Mec, t'as grave trop fumé là.
+Ouais mec !
+Heu... nan !
+Helgaaaaaa !
+Hey mec, tu sais c'qui s'passe avec tous ces clignotants ?
+On y est là ?
+Tu veux mater ma vidéo de chute libre ? Elle déchire tout !
+Salut Monsieur Qwarky !
+C'est quoi le blème ?
+Nan ! J'suis déjà sur un truc.
+C'est à moi qu'tu parles ?
+Heu yo Cap'taine Sasha.
+Tête de fer.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
